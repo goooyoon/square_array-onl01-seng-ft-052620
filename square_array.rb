@@ -8,6 +8,6 @@ end
 
 def square_array(array)
 squared = []
-array.each {|number| squared << number * number}
+array.each {|numbers| squared << numbers * numbers}
 squared
 end
