@@ -7,6 +7,7 @@ end
 end
 
 def square_array(array)
-  array.map {|numbers| ** 2}
+array.each do |numbers|
+  
 end
 end
