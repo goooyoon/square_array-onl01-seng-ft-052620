@@ -7,6 +7,6 @@ end
 end
 
 def square_array(array)
-array.each {|numbers|}
+   array.map! {|num| num ** 2}
 end
 end
