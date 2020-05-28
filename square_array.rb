@@ -7,6 +7,6 @@ end
 end
 
 def square_array(array)
-  array.map {|num| num ** 2}
+  array.map {|numbers| numbers ** 2}
 end
 end
