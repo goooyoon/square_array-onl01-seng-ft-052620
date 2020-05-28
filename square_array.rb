@@ -7,3 +7,6 @@ end
 end
 
 def square_array(array)
+  array.square do |numbers|
+end
+end
